@@ -27,9 +27,8 @@ This document provides instructions on how to use the `migrate.mjs` script to mi
    ```
 
 3. **Sanity Setup**:
-   - Your Sanity project should have two schemas:
-     1. **Categories Schema**: Contains fields for title and image.
-     2. **Products Schema**: Contains fields for title, price, category (as a reference), image, and other product-related fields.
+   - Your Sanity project should have two schemas
+     1. **Products Schema**: Contains fields for title, price, category (as a reference), image, and other product-related fields.
 
 ---
 
